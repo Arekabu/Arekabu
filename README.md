@@ -39,6 +39,10 @@
 
   <a href="https://nginx.org" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nginx/nginx-original.svg" height="100 alt="NGINX"/>
+  </a>
+
+  <a href="https://www.gnu.org/software/bash/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-plain.svg" height="100 alt="bash"/>
   </a>  
 </p>
 
