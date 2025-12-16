@@ -1,4 +1,5 @@
 ## <p align="center">Hi there 👋, I'm Alex<p/>
+### <p align="center">A Python backend developer<p/>
 
 <!--
 **Arekabu/Arekabu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
