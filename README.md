@@ -13,7 +13,7 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" height="100" alt="Django"/>
   </a>
 
-  <a href="https://www.django-rest-framework.org/" target="_blank">
+  <a href="https://www.django-rest-framework.org" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/djangorest/djangorest-original.svg" height="100" alt="DjangoRESTframework"/>
   </a>
   
@@ -33,9 +33,13 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" height="100" alt="Git"/>
   </a>
 
-  <a href="https://redis.io/" target="_blank">
+  <a href="https://redis.io" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-plain-wordmark.svg" height="100 alt="Redis"/>
   </a>
+
+  <a href="https://nginx.org" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nginx/nginx-original.svg" height="100 alt="NGINX"/>
+  </a>  
 </p>
 
 <!--
