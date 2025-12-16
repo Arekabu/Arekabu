@@ -14,7 +14,7 @@
   </a>
 
   <a href="https://www.django-rest-framework.org/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/djangorest/djangorest-original.svg" height="40" alt="DjangoRESTframework"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/djangorest/djangorest-original.svg" alt="DjangoRESTframework"/>
   </a>
   
   <a href="https://www.postgresql.org" target="_blank">
