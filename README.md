@@ -1,8 +1,8 @@
-## <p align="center">Hi there 👋, I'm Alex<p/>
-### <p align="center">A Python backend developer<p/>
+# <p align="center">Hi there 👋, I'm Alex<p/>
+## <p align="center">A Python backend developer<p/>
 - 📫 How to reach me: arekabu@yandex.com
 
-### 🛠️ Tech Stack
+## 🛠️ Tech Stack
 
 <p align="left">
   <a href="https://www.python.org" target="_blank">
