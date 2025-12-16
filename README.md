@@ -4,8 +4,6 @@
 
 ### 🛠️ Tech Stack
 
-### 🛠️ Tech Stack
-
 <p align="left">
   <a href="https://www.python.org" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python"/>
