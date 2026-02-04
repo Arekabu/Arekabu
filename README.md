@@ -43,6 +43,10 @@
 
   <a href="https://www.gnu.org/software/bash/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-plain.svg" height="80" alt="bash"/>
+  </a>
+
+  <a href="https://www.postman.com/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" height="80" alt="bash"/>
   </a>  
 </p>
 
